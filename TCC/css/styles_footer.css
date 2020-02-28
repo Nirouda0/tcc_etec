@@ -1,0 +1,19 @@
+.footer {
+  overflow: hidden;
+  background-color: #fdfdfd;
+  border-top-color: #ffcc00;
+  width: 98%;
+  text-align: center;
+  padding: 20px 10px;
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   
+}
+
+
+.container {
+    position: relative; /*faz a mágina :)*/
+    min-height: 100%; /* define a altura minima*/
+    background: #fdfdfd;
+}
